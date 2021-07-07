@@ -1,1 +1,1 @@
-## This directory contains Kotlin Language Concepts And their demonstration
+## This directory contains Kotlin Language Concepts And their code implementations
